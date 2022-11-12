@@ -10,9 +10,7 @@ Yoluma Full Stack Web Developer olarak devam etme kararı aldım ve bu alana yö
 </br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"> 
-<img src="https://cdn-icons-png.flaticon.com/512/921/921594.png" width="55"> 
-
-<img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="150" align="right" border-radius="10px">
+<img src="https://cdn-icons-png.flaticon.com/512/921/921594.png" width="55"> <img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="150" align="right" border-radius="10px">
 
 #### LinkedIn hesabım [Berat KUZU]
 [Berat KUZU]:https://www.linkedin.com/in/berat-kuzu-a57a71197/

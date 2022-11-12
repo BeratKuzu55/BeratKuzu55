@@ -12,7 +12,8 @@ Yoluma Full Stack Web Developer olarak devam etme kararı aldım ve bu alana yö
 Hello, I am Berat Kuzu, I won the Department of Computer Engineering at Bursa Technical University in 2020 and I still continue my education.
 I decided to continue on my path as a Full Stack Web Developer and I am trying to do projects in this field, and I started developing projects on game programming because of my curiosity about games.
 </br>
-
+</br>
+</br>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"> 
 <img src="https://cdn-icons-png.flaticon.com/512/921/921594.png" width="55"> <img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="100" align="right" border-radius="10px">
 

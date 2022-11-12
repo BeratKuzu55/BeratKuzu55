@@ -1,5 +1,8 @@
 # Bursa Teknik Üniversitresi Bilgisayar Mühendisliği / BERAT KUZU
 
+</br>
+<div style="width:100%;height:0;padding-bottom:105%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
+
 Merhabalar , Ben Berat Kuzu 2020 yılında Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünü kazandım ve hala eğitimime devam etmekteyim.
 Yoluma Full Stack Web Developer olarak devam etme kararı aldım ve bu alana yönelik projeler yapmaya çalışıyorum ekstra olarak oyunlara olan merakımdan oyun programlama üzerinde de projeler geliştirmeye başladım. 
 

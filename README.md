@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="https://external-preview.redd.it/6CX4YSkJMNER2Y4_86T8pGtYCO7SAyUanQ8djPZqwlo.gif?format=mp4&s=4c56f1a30f8b0e7791ab9ca72b6209a1b0bea25f">
+<img src="https://tenor.com/bQIc8.gif">
 Merhabalar , Ben Berat Kuzu 2020 yılında Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünü kazandım ve hala eğitimime devam etmekteyim.
 Yoluma Full Stack Web Developer olarak devam etme kararı aldım ve bu alana yönelik projeler yapmaya çalışıyorum ekstra olarak oyunlara olan merakımdan oyun programlama üzerinde de projeler geliştirmeye başladım. 
 

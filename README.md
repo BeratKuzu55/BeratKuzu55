@@ -21,7 +21,7 @@ I decided to continue on my path as a Full Stack Web Developer and I am trying t
 
 <details>
   <summary>:bulb: Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratKuzu55&layout=compact" >
   </details>
 
 

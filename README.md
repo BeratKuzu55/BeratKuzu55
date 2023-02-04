@@ -4,14 +4,14 @@
 
 <img src="https://tenor.com/view/programming-gif-24916992.gif" width="300" align="center">
 Merhabalar , Ben Berat Kuzu 2020 yılında Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünü kazandım ve eğitimime devam etmekteyim.
-Unity platformunda oyun projeleri geliştiriyorum aynı zamanda blockchain teknolojisini de takip etmeye çalışıyorum
+Unity platformunda oyun projeleri geliştiriyorum aynı zamanda nodejs ile web uygulamaları öğrenmeye ve blockchain teknolojisini de takip etmeye çalışıyorum
  
 
 </br>
 </br>
 
 Hi everyone, I am Berat Kuzu, I won the Department of Computer Engineering at Bursa Technical University in 2020 and I still continue my education.
-I create game projects with using unity and following blockchain tecnology
+I create game projects with using unity , learning nodejs for web apps and  following blockchain tecnology
 
 </br>
 </br>

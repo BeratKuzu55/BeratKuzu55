@@ -26,6 +26,6 @@ I create game projects with using unity , learning nodejs for web apps and  foll
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratKuzu55&layout=compact" >
   </details>
 
-
-#### LinkedIn hesabım [Berat KUZU]
+<h3> LinkedIn hesabım  </h3>
+####  [Berat KUZU]
 [Berat KUZU]:https://www.linkedin.com/in/berat-kuzu-a57a71197/

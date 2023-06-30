@@ -18,9 +18,10 @@ I create game projects with using unity , learning nodejs for web apps and  foll
 </br>
 
 <p><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"> 
-<img src="https://cdn-icons-png.flaticon.com/512/921/921594.png" width="55">
+<img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/a9613144-9cb3-48f7-bdc0-5a3aad880590" width="55">
  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/0a6e1ba4-fe15-44f1-b533-4918b7b3503d" width="55">
-
+  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/05384d3d-b66f-499b-aaad-8e230aa3074a" width="55">
+ <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/a396bed2-b63b-4b9e-8816-15e7ce70569f" width="55">
  <img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="100" align="right" border-radius="10px">  </p>
 
 </br> 

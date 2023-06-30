@@ -22,6 +22,8 @@ I create game projects with using unity , learning nodejs for web apps and  foll
  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/0a6e1ba4-fe15-44f1-b533-4918b7b3503d" width="55">
   <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/9d1a9e17-3c4e-4ee8-bfe7-2abc12ee58ad" width="55">
  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/a396bed2-b63b-4b9e-8816-15e7ce70569f" width="55">
+  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/7413f052-59fa-4cd8-abf3-1d14678f8076" width="55">
+ <img src="" width="55">
  <img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="100" align="right" border-radius="10px">  </p>
 
 </br> 

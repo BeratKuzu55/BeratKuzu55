@@ -3,8 +3,6 @@
 </br>
 
 <img src="https://tenor.com/view/programming-gif-24916992.gif" width="300" align="center">
-Merhabalar , Ben Berat Kuzu 2020 yılında Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünü kazandım ve eğitimime devam etmekteyim.
-Unity platformunda oyun projeleri geliştiriyorum aynı zamanda nodejs ile web uygulamaları öğrenmeye ve blockchain teknolojisini de takip etmeye çalışıyorum
  
 
 </br>
@@ -30,7 +28,6 @@ I create game projects with using unity , learning nodejs for web apps and  foll
 
 <details>
   <summary>:bulb: Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratKuzu55&layout=compact" >
   </details>
 
 

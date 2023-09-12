@@ -3,6 +3,7 @@
 </br>
 
 <img src="https://tenor.com/view/programming-gif-24916992.gif" width="300" align="center">
+
  
 
 </br>
@@ -22,12 +23,13 @@ I create game projects with using unity , learning nodejs for web apps and  foll
  <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/a396bed2-b63b-4b9e-8816-15e7ce70569f" width="55">
   <img src="https://github.com/BeratKuzu55/BeratKuzu55/assets/75533278/92025745-ef18-450b-9559-ca11269b7bcd" width="55">
 
- <img src="https://user-images.githubusercontent.com/75533278/201489848-d5469a9c-2ece-4775-a916-e6780fdee36f.gif" width="100" align="right" border-radius="10px">  </p>
+   </p>
 
 </br> 
 
 <details>
   <summary>:bulb: Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratKuzu55&layout=compact" >
   </details>
 
 

@@ -2,13 +2,10 @@
 
 </br>
 
-<img src="https://tenor.com/view/programming-gif-24916992.gif" width="300" align="center">
 
-</br>
 </br>
 
 Hi everyone, I am Berat Kuzu, I won the Department of Computer Engineering at Bursa Technical University in 2020 and I still continue my education.
-I create game projects with using unity , learning nodejs for web apps and  following blockchain tecnology
 
 </br>
 </br>
